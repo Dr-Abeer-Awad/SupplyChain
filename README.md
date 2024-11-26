@@ -1,6 +1,5 @@
 # SupplyChain
-
-**Project Introduction**
+### Project Introduction
 
 Supply chains are a vital component of any organization’s success, contributing to meeting market needs and delivering products on time. With the increasing complexity of logistics operations, many companies face significant challenges related to shipping goods. This project aims to analyze supply chain data to determine if there are issues affecting the shipping process.
 
